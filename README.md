@@ -1,7 +1,8 @@
 
 # Common-Sense-Reasoning-ARC
 
-This project focuses on common-sense reasoning using the AI2 Reasoning Challenge (ARC) dataset. The goal is to develop and evaluate models that can answer multiple-choice questions requiring common-sense knowledge.
+This repository includes code for evaluating Language Models and Chain-of-Thought (CoT) reasoning.
+This project focuses on common-sense reasoning using the AI2 Reasoning Challenge (ARC) dataset. 
 
 
 # model Phi-1.5
