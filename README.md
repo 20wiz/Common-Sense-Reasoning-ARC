@@ -1,4 +1,3 @@
-"# Common-Sense-Reasoning-ARC" 
 
 # Common-Sense-Reasoning-ARC
 

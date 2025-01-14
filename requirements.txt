@@ -1,0 +1,4 @@
+datasets   3.2.0
+numpy      2.2.1
+torch      2.5.1+cu121
+tqdm       4.67.1
